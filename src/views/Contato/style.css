@@ -1,0 +1,53 @@
+
+.text-titulo{
+ 
+    margin-left: 590px;
+    margin-top: 50px;
+
+}
+
+.containerContato{
+
+    background-color:rgb(20, 20, 97);
+    opacity: 0.7;
+    margin-top: 50px;
+    height: 150px;
+   display: flex;
+   justify-content:center;
+ 
+}
+
+.center{
+    margin-top: 30px;
+    margin-left: 80px;
+   
+}
+
+.mensagem{
+    text-align: 50px;
+}
+
+.link{
+    margin-left: 20px;
+}
+
+.form-control{
+    border-color: blue;
+    font-size: 10px;
+    width: 250px;
+    
+}
+
+.btnContato{
+   
+    background-color:rgb(20, 20, 97);
+    margin-left: 110px;
+    margin-top: 30px;
+    color: white;
+    opacity: 0.4;
+    width: 180px;
+    height: 30px;
+    font-size: 12px;
+    border: none;
+    border-radius: 05px;
+}

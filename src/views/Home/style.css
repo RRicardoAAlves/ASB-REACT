@@ -1,0 +1,59 @@
+#logo{
+    width : 100px;
+    height: 50px;
+}
+
+.menuCor{
+    background-color:darkblue;
+    height: 130px;
+}
+
+
+.navbar-nav li>a {
+    color: #fff;
+    font-size: 18px;
+}
+.bmenu{
+    margin-right: 50px;
+    color: white;
+}
+
+.se1{
+    background-color: #8e8efd;
+}
+
+.se2{
+    margin-top: 60px;
+}
+
+.se3{
+    background-color: rgb(208, 252, 226);
+}
+
+.titulo-card{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+
+
+.destinoPaiCard{
+    display: flex;
+    flex-wrap: wrap; /*quebra linha*/
+    justify-content: center;
+    gap: 10px;
+}
+.cardNo{
+    width: 300px;
+}
+.title-paragrafo{
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+
+}
+
+.te1{
+    background-color: floralwhite;
+    margin-bottom: 50px;
+}

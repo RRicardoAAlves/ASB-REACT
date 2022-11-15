@@ -1,0 +1,104 @@
+#containerCadastro{
+    width: 396px;
+    height: 430px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform:translate(-50%, -50%);
+    border-color: #008000;
+   
+}
+
+.card-body{
+    font-size: 12px;
+    line-height: 1;
+}
+
+ .formulario{
+  
+    margin-top: 32px;
+    margin-bottom: 20px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+ }
+
+.formulario-item{
+   
+    margin-top: 8px;
+    margin-right: 12px; 
+    font-size: small;
+    
+ }
+
+.formulario-borda-cadastro{
+   
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color:#008000;
+    width: 200px;
+    font-size: 10px;
+
+ }
+
+ .formulario-borda-cadastro1{
+   
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color:#008000;
+    width: 170px;
+    font-size: 10px;
+
+ }
+
+ .btn-login-cadastro{
+    background-color: #008000;
+    margin-left: 60px;
+    margin-top: 30px;
+    color: white;
+    opacity: 0.4;
+    width: 230px;
+    height: 30px;
+    font-size: 10px;
+    border: none;
+    border-radius: 05px;
+
+}
+
+.login-titulo-cadastro{
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:  #008000;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.login-texto{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    font-size: 10px;
+
+}
+
+.login-texto2{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    font-size: 10px;
+    line-height: 0px;
+}
+
+.login-privacidade{
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    line-height: 0px;
+}
+

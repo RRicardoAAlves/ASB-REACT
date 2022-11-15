@@ -1,0 +1,18 @@
+.tex{
+    text-align: center;
+    margin-bottom: 50px;
+   }
+   
+   .center{
+       margin-top: 30px;
+       margin-left: 80px;
+      
+   }
+
+.btnService{
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    margin-bottom: 20px;
+    
+}

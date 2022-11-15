@@ -1,0 +1,87 @@
+#about-area1{
+    margin-top: 12em;
+    margin-bottom: 1em;
+}
+.main-title{
+    color: #0b416e;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+
+
+.about-title{
+    font-size: 20px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: #0b416e;
+    text-align:center;
+    text-transform: uppercase;
+    font-size: bold;
+}
+#about-area2{
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+#about-list1{
+    list-style: none;
+    padding-left: 0;
+    
+}
+#about-list1 li{
+    line-height: 30px;
+    color: #e21e38;
+}
+#about-list1 i{
+    color: #0b416e;
+}
+#about-list2{
+    list-style: none;
+    padding-left: 0;
+}
+#about-list2 li{
+    line-height: 30px;
+    color: #0b416e;
+}
+.row {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 1em;
+    
+}
+.col-12{
+    text-align: center;
+    font-size: bold;
+    margin-bottom: 1em;
+}
+.col-12 h3{
+    margin-bottom: 1em;
+}
+.col-md-3{
+    display:flex;
+    width: 4em;
+}
+.col-sem-margem{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.img-fluid{
+    margin-top: 3em;  
+    padding: 1em; 
+    border: solid 1px #0b416e;
+    border-radius: 10px;
+}
+
+
+
+<!--página_Sobre-->
+
+.font-text{
+    font-size: large;
+}
+
+.bord-car{
+    border: solid 1px #0b416e;
+    border-radius: 5px;
+}
